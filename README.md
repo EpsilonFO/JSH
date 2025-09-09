@@ -1,7 +1,7 @@
-# JSH - Java Shell
+# JSH - Job Shell
 
 ## Overview
-JSH (Java Shell) is a command-line interpreter implemented in Java that mimics the functionality of Unix-like shells. This project provides a functional shell environment with support for basic commands, pipelines, redirection, and various shell features.
+JSH (Job Shell) is a command-line interpreter that mimics the functionality of Unix-like shells. This project provides a functional shell environment with support for basic commands, pipelines, redirection, and various shell features.
 
 ## Features
 
